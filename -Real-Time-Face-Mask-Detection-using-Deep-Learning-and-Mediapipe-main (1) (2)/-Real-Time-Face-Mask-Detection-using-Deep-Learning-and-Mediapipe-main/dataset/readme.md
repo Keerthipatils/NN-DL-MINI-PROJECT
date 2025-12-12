@@ -1,0 +1,1 @@
+download dataset from this link "https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?resource=download" and extract the Zip File and copy and paste those two folder in the dataset named annotations and images. into this folder
